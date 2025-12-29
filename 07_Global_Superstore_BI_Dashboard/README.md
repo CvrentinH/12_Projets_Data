@@ -40,7 +40,7 @@ Instead of using a single inefficient flat table, the data was normalized into F
 * **Dim_Products:** Product details, Categories, and Sub-Categories.
 * **Dim_Date:** A dedicated calendar table for Time Intelligence functions (YoY, QTD).
 
-![Data Model]()
+![Data Model](assets/data_model.png)
 *(Screenshot of the Model View in Power BI)*
 
 ### 2. ETL Process (Power Query)
