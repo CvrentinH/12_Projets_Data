@@ -24,6 +24,8 @@ Unlike static reports, this dashboard leverages **Time Intelligence** and a **St
 * **Shipping Inefficiencies:** Same-Day shipping in the APAC region has a disproportionately high cost compared to sales generated.
 * **Seasonality:** Sales consistently spike in Q4 (Nov-Dec), necessitating better inventory planning for year-end logistics.
 
+![Dashboard](assets/dashboard_BI.png)
+
 ---
 
 ## Technical Architecture
