@@ -2,10 +2,9 @@
 
 ![SQL](https://img.shields.io/badge/SQL-T--SQL-003B57?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![Database](https://img.shields.io/badge/Database-AdventureWorks-f29111?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Complete-green?style=for-the-badge)
 
 ## Project Overview
-This project corresponds to **Project 8** of the "12 Projects to Become a Data Analyst" challenge. It involves an in-depth analysis of **AdventureWorks**, a comprehensive database simulating a retail enterprise.
+This project involves an in-depth analysis of **AdventureWorks**, a comprehensive database simulating a retail enterprise.
 
 The primary objective was to leverage **Advanced SQL** techniques to audit business performance across four key dimensions: Sales, Product Portfolio, Customer Segmentation, and Regional Analysis. The goal was to move beyond simple data extraction to generate actionable insights and automated reporting structures.
 
