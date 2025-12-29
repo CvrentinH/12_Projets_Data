@@ -2,7 +2,6 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-Machine_Learning-red?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
 
 ## Executive Summary
 This project addresses a core retail challenge: **Inventory Optimization through Demand Forecasting**. 
@@ -65,5 +64,6 @@ The model's performance is evaluated on the validation set (future unseen data).
 ## Author
 
 **HELLIER Corentin**
+
 
 12/12 of the "12 Projects to Become a Data Analyst" from LeCoinStat Challenge.
