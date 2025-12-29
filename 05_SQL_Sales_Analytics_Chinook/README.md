@@ -9,7 +9,7 @@ This project focuses on mastering basic **SQL** to query and analyze a relationa
 The goal was to replace manual data extraction with structured SQL queries to answer specific business questions regarding revenue tracking, sales agent performance, and product catalogue analysis.
 
 ### Note on Dataset & Dates
-> **Dataset Versioning:** This analysis uses an updated version of the Chinook database. Consequently, the temporal analysis (Sales by Year) reflects the most recent data available in this version (**2021-2025**) rather than the legacy static dataset dates (2009-2013).
+> **Dataset Versioning:** This analysis uses an updated version of the Chinook database. Consequently, the temporal analysis (Sales by Year) reflects the most recent data available in this version (**2021-2025**) rather than the legacy static dataset dates (2009-2013), i did my queries with the new dates to test it then i changed the values to stick with what the project asked
 
 ![Relational Schema](assets/chinhook_db.png)
 *(Chinook Database Schema)*
