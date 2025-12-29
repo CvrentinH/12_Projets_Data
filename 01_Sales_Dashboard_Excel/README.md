@@ -1,8 +1,6 @@
 # Superstore Sales Performance Dashboard
 
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Data Analysis](https://img.shields.io/badge/Data_Analysis-Business_Intelligence-blue?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
 
 ## Executive Summary
 
