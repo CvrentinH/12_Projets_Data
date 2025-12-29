@@ -5,7 +5,6 @@
 ![Statistics](https://img.shields.io/badge/Statistics-Hypothesis_Testing-green?style=for-the-badge)
 
 ## Project Overview
-**Project #4 of the Data Analyst Track**
 
 This project aims to move beyond simple data visualization to scientifically validate Human Resources (HR) hypotheses. By applying rigorous statistical testing, we identify the true drivers behind **Employee Salaries** and **Attrition** (Turnover).
 
