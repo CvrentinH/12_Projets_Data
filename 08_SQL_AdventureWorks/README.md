@@ -1,6 +1,6 @@
 # Advanced SQL Analysis: AdventureWorks Enterprise Performance
 
-![SQL](https://img.shields.io/badge/SQL-T--SQL-003B57?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![Database](https://img.shields.io/badge/Database-AdventureWorks-f29111?style=for-the-badge)
 
 ## Project Overview
