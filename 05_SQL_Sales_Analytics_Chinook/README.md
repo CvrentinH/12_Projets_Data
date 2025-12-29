@@ -2,10 +2,9 @@
 
 ![SQL](https://img.shields.io/badge/SQL-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Database](https://img.shields.io/badge/Database-Relational-f29111?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Complete-green?style=for-the-badge)
 
 ## Project Overview
-This project focuses on mastering **SQL** to query and analyze a relational database (Chinook - a digital music store). 
+This project focuses on mastering basic **SQL** to query and analyze a relational database (Chinook - a digital music store). 
 
 The goal was to replace manual data extraction with structured SQL queries to answer specific business questions regarding revenue tracking, sales agent performance, and product catalogue analysis.
 
