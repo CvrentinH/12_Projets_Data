@@ -2,7 +2,6 @@
 
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![Tidymodels](https://img.shields.io/badge/Tidymodels-Machine_Learning-red?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
 
 ## Executive Summary
 This project addresses a critical banking challenge: **Credit Default Prediction**. 
