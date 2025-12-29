@@ -4,7 +4,7 @@ SELECT
     SUM(soh.TotalDue) AS TotalSales
 FROM Sales.SalesOrderHeader soh
 JOIN Sales.SalesTerritory tr ON soh.TerritoryID = tr.TerritoryID
-WHERE YEAR(soh.OrderDate) = 2013 -- Replace with 2024 if data exists
+WHERE YEAR(soh.OrderDate) = 2013
 GROUP BY tr.Name
 ORDER BY TotalSales DESC;
 
@@ -133,7 +133,6 @@ SELECT
     YEAR(soh.OrderDate) AS SalesYear,
     MONTH(soh.OrderDate) AS SalesMonth,
     SUM(sod.LineTotal) AS MonthlyTotal,
-    -- Calculate running total for the year
     SUM(SUM(sod.LineTotal)) OVER (PARTITION BY p.Name, YEAR(soh.OrderDate) ORDER BY MONTH(soh.OrderDate)) AS YTD_Total
 FROM Sales.SalesOrderDetail sod
 JOIN Sales.SalesOrderHeader soh ON sod.SalesOrderID = soh.SalesOrderID
