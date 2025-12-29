@@ -37,15 +37,15 @@ The project follows a standard Data Science pipeline:
 | **5. Evaluation** | `RMSE` & `R²` | Evaluated performance on the test set (20%). |
 
 ### Data Correlation
-![Correlation Matrix](images/correlation_matrix.png)
+![Correlation Matrix](assets/correlation_matrix.png)
 *Correlation heatmap showing relationships between features.*
 
 ### Prediction Accuracy
-![Actual vs Predicted](images/actual_vs_predicted.png)
+![Actual vs Predicted](assets/actual_vs_predicted.png)
 *Comparison between the model predictions and actual values. Points on the red line indicate perfect predictions.*
 
 ### Error Analysis
-![Residuals Distribution](images/residuals_distribution.png)
+![Residuals Distribution](assets/residuals_distribution.png)
 *Distribution of residuals (errors). A normal distribution (bell curve) indicates a healthy regression model.*
 ---
 
