@@ -6,7 +6,6 @@
 
 ## Executive Summary
 **Project Type:** Unsupervised Machine Learning (PCA)  
-**Context:** Project 6 of the "12 Projects to Become a Data Analyst" path.
 
 This project explores the physicochemical complexity of red wines using **Principal Component Analysis (PCA)**. The objective is to reduce the dimensionality of the dataset (11 chemical features) to identify key patterns and determine if wine quality correlates with specific chemical profiles.
 
