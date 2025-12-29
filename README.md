@@ -23,7 +23,7 @@ Inspired by the **LeCoinStat** challenge, these projects simulate real-world bus
 * **Key Skills:** Data cleaning, Pivot Tables, advanced formulas (INDEX/MATCH), and dynamic slicers for executive reporting.
 
 #### **Project 7: Real-Time Commercial Dashboard**
-* **Tools:** Power BI / Tableau
+* **Tools:** Power BI
 * **Objective:** Built a high-level interactive dashboard to visualize sales trends and geography-based performance for rapid decision-making.
 * **Key Skills:** Data storytelling, dynamic filtering, and time-series visualization.
 
@@ -32,17 +32,17 @@ Inspired by the **LeCoinStat** challenge, these projects simulate real-world bus
 ### Part 2: Exploratory Data Analysis (EDA) & Statistics (Python/R)
 
 #### **Project 2: Employee Performance Analysis**
-* **Tools:** Python / R
+* **Tools:** R
 * **Objective:** Analyzed HR data to understand performance distribution and detect outliers in working hours.
 * **Key Skills:** Descriptive statistics, outlier detection (IQR method), and distribution visualization (histograms, boxplots).
 
 #### **Project 3: Business Driver Analysis**
-* **Tools:** Python / R
+* **Tools:** Python
 * **Objective:** Investigated correlations between products, regions, and margins to optimize commercial strategy.
 * **Key Skills:** Bivariate analysis, correlation matrices, and identifying qualitative-quantitative relationships.
 
 #### **Project 4: Departmental Performance Gaps**
-* **Tools:** Python / R
+* **Tools:** R
 * **Objective:** Conducted rigorous statistical testing to validate performance differences between enterprise departments.
 * **Key Skills:** Hypothesis testing (ANOVA, Chi-Square, T-test, Kruskal-Wallis) and normality tests (Shapiro-Wilk).
 
@@ -56,7 +56,7 @@ Inspired by the **LeCoinStat** challenge, these projects simulate real-world bus
 ### Part 3: Data Management & Reporting (SQL)
 
 #### **Project 5: Automated Sales Reporting**
-* **Tools:** SQL (SQLite/PostgreSQL)
+* **Tools:** SQL (SQLite)
 * **Objective:** Automated the extraction of quarterly sales reports and aggregated KPIs per product.
 * **Key Skills:** `GROUP BY`, Aggregate functions, and Views for reporting automation.
 
@@ -70,7 +70,7 @@ Inspired by the **LeCoinStat** challenge, these projects simulate real-world bus
 ### Part 4: Predictive Modeling & Machine Learning
 
 #### **Project 9: Customer Segmentation (Clustering)**
-* **Tools:** Python (Scikit-learn)
+* **Tools:** R
 * **Objective:** Deployed unsupervised learning to group customers into distinct segments for personalized marketing offers.
 * **Key Skills:** K-Means Clustering, data normalization, and cluster interpretation.
 
@@ -80,13 +80,13 @@ Inspired by the **LeCoinStat** challenge, these projects simulate real-world bus
 * **Key Skills:** Regression analysis, Model evaluation (RMSE, R²), and residual analysis.
 
 #### **Project 11: Credit Default Risk Prediction**
-* **Tools:** Python (Scikit-learn)
+* **Tools:** R
 * **Objective:** Developed a classification model to predict the likelihood of client payment default.
 * **Key Skills:** Logistic Regression, Confusion Matrix analysis, F1-Score, and AUC-ROC evaluation.
 
 #### **Project 12: Sales Forecasting**
-* **Tools:** Python (Prophet/ARIMA)
+* **Tools:** Python (XGBoost)
 * **Objective:** Modeled time-series data to forecast future sales inventory requirements.
-* **Key Skills:** Seasonality detection, trend analysis, and time-series modeling (ARIMA/Prophet).
+* **Key Skills:** Seasonality detection, trend analysis, and time-series modeling (XGBoost).
 
 ---
