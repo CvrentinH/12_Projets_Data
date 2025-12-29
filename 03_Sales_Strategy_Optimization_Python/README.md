@@ -6,7 +6,7 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-11557c?style=for-the-badge)
 
 ## Executive Summary
-This project (Project #3 of the Data Analyst Portfolio) aims to identify the mathematical drivers influencing the profitability of the "Superstore" company.
+This project aims to identify the mathematical drivers influencing the profitability of the "Superstore" company.
 
 Moving beyond descriptive analytics, this project utilizes **Python** for a statistical approach. The goal is to determine how interactions between Sales Volume, Order Quantity, and specifically **Discount rates**, impact the final Profit margin.
 
