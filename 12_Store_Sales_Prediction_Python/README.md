@@ -39,8 +39,8 @@ While traditional methods like ARIMA are popular, I selected **XGBoost** for its
 
 The model's performance is evaluated on the validation set (future unseen data).
 
-* **RMSE Score:** [INSERT YOUR RMSE SCORE HERE, e.g., 285.40]
-* **MAE Score:** [INSERT YOUR MAE SCORE HERE, e.g., 210.15]
+* **RMSE Score:** 739.01
+* **MAE Score:** 193.11
 * **Business Interpretation:** The model successfully captures weekly seasonality (weekend spikes).
 * **Top Predictors:** As shown in the feature importance analysis, the `OnPromotion` status and `Product Family` are the strongest drivers of sales, followed by the specific `Store Number`.
 
@@ -67,3 +67,4 @@ The model's performance is evaluated on the validation set (future unseen data).
 
 
 12/12 of the "12 Projects to Become a Data Analyst" from LeCoinStat Challenge.
+
